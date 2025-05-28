@@ -6,10 +6,10 @@ Essas redes são capazes de modelar relações complexas entre variáveis de ent
 
 ### Por que usar RNA para regressão?
 
-- Lida com **relações não lineares** entre variáveis
+- Lida com **relações não-lineares** entre variáveis
 - Pode ser usada com qualquer número de entradas
 - Flexível em problemas onde outros modelos falham (como regressão linear)
-- Ideal para prever valores como preço, temperatura, consumo, etc.
+- Ideal para prever valores como preço, temperatura, consumo etc.
 
 ### Funcionamento Intuitivo
 
