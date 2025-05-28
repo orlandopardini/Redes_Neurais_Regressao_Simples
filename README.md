@@ -2,7 +2,7 @@
 
 As **Redes Neurais Artificiais (RNAs)** também podem ser utilizadas para **regressão**, onde o objetivo é prever **valores contínuos** ao invés de categorias. Esse tipo de tarefa é conhecido como **regressão univariada**, quando há **uma única variável de saída** (target).
 
-Essas redes são capazes de modelar relações complexas entre variáveis de entrada e uma saída numérica, mesmo em cenários com dados não lineares ou alta dimensionalidade.
+Essas redes são capazes de modelar relações complexas entre variáveis de entrada e uma saída numérica, mesmo em cenários com dados não-lineares ou alta dimensionalidade.
 
 ### Por que usar RNA para regressão?
 
